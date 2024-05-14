@@ -1,0 +1,4 @@
+sun:
+- Loại từ: danh từ
+  Nghĩa: mặt trời
+  Ví dụ: i like the sun 

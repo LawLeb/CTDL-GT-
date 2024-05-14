@@ -1,0 +1,10 @@
+run:
+- Loại từ: tính từ
+  Nghĩa: chạy
+  Ví dụ: I run every day
+
+she:
+- Loại từ: danh từ
+  Nghĩa: cô ấy
+  Ví dụ: she have a funt
+
